@@ -1,5 +1,6 @@
 ## JavaScript DOM编程艺术 第12章综合示例
 预览地址: https://zuoxiaobai.github.io/jsdom_project/
+![首页预览](images/index.png)
 
 ### 配置Github Pages
 现在需要将静态页面放到github，并确保可以在线预览对应的效果，配置Github Pages可以实现对应的需求
