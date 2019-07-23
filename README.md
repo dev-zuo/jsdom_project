@@ -1,4 +1,5 @@
 ## JavaScript DOM编程艺术 第12章综合示例
+预览地址: http://zuoguoqing.com/js_dom_chapter12_project/
 
 ### 配置Github Pages
 现在需要将静态页面放到github，并确保可以在线预览对应的效果，配置Github Pages可以实现对应的需求
@@ -28,5 +29,5 @@
 ![测试页面](./images/测试页面.png)
 
 ### 在docs目录里实现功能
-
-
+根据第十二章的描述，一步步完成功能。图片素材、代码均可在 http://www.ituring.com.cn/book/42 下载，但建议只导入图片素材，代码还是根据书中的示例一步步手打完成。
+![素材下载](./images/素材下载.png)
