@@ -20,7 +20,7 @@
 </html>
 
 ```
-- 打开仓库的设置，找到GitHub Pages配置位置
+- 打开仓库的设置，找到GitHub Pages配置位置，注意：如果没有登录github，或者不是自己的仓库是看不到Settings选项的
 ![打开仓库设置](./images/github_pages.png)
 - 设置 **Source** 为 **master branch/docs folder**，成功后会给出对应的链接，直接访问即可。
 ![修改source为docs](./images/github_pages2.png)
